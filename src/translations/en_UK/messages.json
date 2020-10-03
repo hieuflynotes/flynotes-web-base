@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "FlySend App",
+    "name": "Flynotes"
+  },
+  "error": {
+    "default": {
+      "title": "An error has occured.",
+      "desc": "An error has occured."
+    },
+
+    "404": {
+      "title": "Page not found!",
+      "desc": "Sorry, there is no web page matching your request."
+    },
+    "403": {
+      "desc": "Sorry, you don't have permission to access this page."
+    },
+    "400": {
+      "desc": "Sorry, an unexpected error has occurred."
+    }
+  },
+  "services": {
+    "theme": {
+      "button": {
+        "title": "1. Button"
+      },
+      "paragraph": {
+        "smallTitle": "Small Title",
+        "mediumTitle": "Medium Title",
+        "largeTitle": "Large title",
+        "bigTitle": "Big Title"
+      }
+    }
+  }
+}

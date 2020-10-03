@@ -1,0 +1,6 @@
+[submodule "src/submodules/flynotes-menu"]
+	path = src/submodules/flynotes-menu
+	url = git@github.com:Flynotes/flynotes-menu.git
+[submodule "src/submodules/flynotes-base"]
+	path = src/submodules/flynotes-base
+	url = git@github.com:Flynotes/flynotes-base.git

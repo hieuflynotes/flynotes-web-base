@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@Core/*": ["src/submodules/flynotes-base/*"],
+      "flynotes-base/*": ["src/submodules/flynotes-base/*"],
+      "flynotes-menu/*": ["src/submodules/flynotes-menu/*"]
+    }
+  }
+}
